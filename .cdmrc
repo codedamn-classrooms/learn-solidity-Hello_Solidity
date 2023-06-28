@@ -1,2 +1,2 @@
 tabs: ['contracts/SimpleStorage.sol']
-
+terminals: ['yarn install']
