@@ -1,2 +1,2 @@
-tabs: ['contracts/SimpleStorage.sol']
+tabs: ['contracts/HelloSolidity.sol']
 terminals: ['yarn install']
