@@ -1,2 +1,3 @@
-tabs: ['contracts/HelloSolidity.sol']
-terminals: ['yarn install']
+tabs: ["contracts/HelloSolidity.sol"]
+terminals: ["bun install"]
+run-button: truffle compile
